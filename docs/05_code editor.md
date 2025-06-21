@@ -13,4 +13,4 @@ Popular code editors:
 Popular IDE:
 1. Pycharm
 
-![syntax demo](/images.png/05_code_editor_screenshot.png)
+![syntax demo](/images/05_code_editor_screenshot.png)

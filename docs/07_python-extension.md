@@ -11,4 +11,4 @@ IDE has many features
 
 Click on the left side icon to open extension panel install additional extensions.
 
-![syntax demo](/images.png/07_python-extension_screenshot.png)
+![syntax demo](/images/07_python-extension_screenshot.png)
