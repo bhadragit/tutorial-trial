@@ -1,0 +1,3 @@
+# Chapter 1 - Introduction
+Time range: 0:00 - 0:56  
+Python is used for AI, Machine learning, Web development and Automation. This is a comprehensive, easy to follow, well organized and practical course. No prior knowledge is required. Step by step explanation of simple terms is included in this course. Mosh hamedani, a software engineer with over 20 years of experience is teaching this through his youtube channel.
