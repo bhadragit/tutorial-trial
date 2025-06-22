@@ -1,5 +1,5 @@
 # Chapter 20 - String method
-time duration: 48:09 - 54:03
+time duration: 48:09 - 54:03  
 In this chapter, you are going to study about a few essential functions available to work with strings. 
 ```python 
 # 20_string_functions
