@@ -1,0 +1,3 @@
+# Chapter 14 - Python Mastery Course
+time duration: 31:17 - 31:44  
+This tutorial is a part of the first two hours of complete Python Mastery Course. The full course covers everything from beginner-level concepts to advanced topics like machine learning, web development, and automation. It's designed to help you build your skills step by step with hands-on projects. If you're finding this helpful and want to learn more, the full course offers a deeper and more structured learning path.

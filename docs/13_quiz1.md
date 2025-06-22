@@ -1,4 +1,5 @@
 # Chapter 13 - Quiz 1
+Time duration: 29:45 - 31:17
 ## Question 1  
 ### What is an expression?
 - Expression is a piece of code that produces a value.  
@@ -13,4 +14,4 @@ Example:
 
 ## Question 3 
 ### What does linter do?
-- Linter is a tool that checks code for potential errors mainly sybtatical errors. 
+- Linter is a tool that checks code for potential errors mainly syntatical errors. 
